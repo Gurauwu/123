@@ -1,6 +1,6 @@
-# 123# R 123 我好慘
+# RDataAnalysis_TKU_2021Fall
 
-2021Fall TKU 123123
+2021Fall TKU R網頁資料擷取與分析
 
 ## 核心能力
 
