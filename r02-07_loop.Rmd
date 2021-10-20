@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### 1 為何要用 loop
 ```{r}
-nums <- c(10, 20, 30, 40, 50)
+nums <- c( 10, 20, 30, 40, 50)
 
 # 印出num_list中的數字
 print(nums[1])
@@ -26,7 +26,7 @@ print(nums[5])
 
 ### 2 for loop with vector
 ```{r}
-nums <- c(10, 20, 30, 40, 50)
+nums <- c( 10, 20, 30, 40, 50)
 
 # 用for loop印出印出 nums 中的數字
 for (num in nums) {
